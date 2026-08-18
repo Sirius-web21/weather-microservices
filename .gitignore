@@ -1,1 +1,11 @@
 ﻿.idea/
+.vs/
+.vscode/
+
+bin/
+obj/
+
+*.user
+*.suo
+
+TestResults/
